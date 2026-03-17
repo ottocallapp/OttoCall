@@ -1,6 +1,6 @@
 # OttoCall Marketing Website
 
-A production-ready marketing website for OttoCall—fair classroom participation tracking for teachers.
+A production-ready marketing website for OttoCall: fair classroom participation tracking for teachers.
 
 ## Tech Stack
 
@@ -38,8 +38,8 @@ npm start
 3. **Trust strip** — Built for teachers, simple workflow, daily use
 4. **Features** — Class management, live sessions, history, analytics, CSV export, settings
 5. **How it works** — Create class → Run session → Review & export
-6. **Screenshot showcase** — Device-framed app screens with captions
+6. **Screenshot showcase** — Carousel of app screens
 7. **Why teachers** — Less bias, more visibility, consistency, quick reporting
 8. **FAQ** — Accordion with common questions
-9. **Final CTA** — Waitlist signup
-10. **Footer** — Logo, nav, contact, copyright
+9. **Final CTA** — Download on Android
+10. **Footer** — Logo, nav, Privacy Policy
